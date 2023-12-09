@@ -1,7 +1,9 @@
+
+
 <h1 align="center">Hi 👋, I'm Shakil</h1>
 <h3 align="center">A passionate Web Developer from Bangladesh</h3>
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shakilgit1&theme=tokyonight)](https://git.io/streak-stats)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakilgit1&label=Profile%20views&color=0e75b6&style=flat" alt="shakilgit1" /> </p>
 
